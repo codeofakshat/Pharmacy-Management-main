@@ -9,6 +9,7 @@ Design Interface:    Bootstrap JavaScript, HTML, Ajax, JQuery,
 Browser:                  Opera Mozilla Google Chrome IE8, Safari, and more.
 
 Software:                 WAMP/ XAMPP/ LAMP/MAMP
+[Project Report.pdf](https://github.com/user-attachments/files/15864879/Project.Report.pdf)
 
 How to setup this project
 
